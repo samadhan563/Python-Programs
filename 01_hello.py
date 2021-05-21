@@ -1,14 +1,30 @@
-import os
-print("Hello world") 
+#First Program of hello Python
+'''
+    Auther:--- Samadhan Nana Gaikwad
+    Company Name:--- Nuvolo solution pvt. ltd., Pune.
+'''
+import os # importing os module
+print("!!! Hello Python !!!!") 
 
 
 
-#module---> Module is a file containing code writtern by some body else usually which can be imported and used our programs
-#
+'''
+            ********Notes*****
+module---> Module is a file containing code writtern by some body else usually which can be imported and used our programs
+REPL---> in bult  code
+pip---> pip is the package manager for python you can use pip to inbstall a module on u r systemecho "
 
-#pip---> pip is the package manager for python you can use pip to inbstall a module on u r systemecho "
+Comment -- two types of comment 
+    01.Single line comment.  
+        syntax #.
+    02.multiline comment. 
+        syntax '''     '''.
+'''
 
-#*****************Gi Command*************# 
+
+
+'''
+*****************Git Command*************
 # # Python-Programs" >> README.md
 #git init
 #git add README.md
@@ -16,3 +32,4 @@ print("Hello world")
 #git branch -M main
 #git remote add origin https://github.com/samadhan563/Python-Programs.git
 #git push -u origin main
+'''
