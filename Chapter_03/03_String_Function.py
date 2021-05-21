@@ -1,4 +1,4 @@
-# Program for string slicing in python
+# Program for string function in python
 '''
     Auther : Samadhan Gaikwad.
     Software Devloper
@@ -6,20 +6,13 @@
 '''
 
 #Concat string two string
-string1="Python"
-string1="Welcome to "+string1+" World !!!"
-print(string1)
-#String Slicing
-string1="Python"
-print(string1[2])
-print("String Slicing ",string1[0:3])#including 0 and excluding 3
-print("String Slicing ",string1[3:6])#including 3 and excluding 6
-print("String Slicing ",string1[:4])#including 0 and excluding 4(0 to 3) same as(0:4)
-print("String Slicing ",string1[2:])#including 3 and excluding 6(3 to 6)same as(3:6) 
-print("String Slicing ",string1[-4:-1])#including 2 and excluding 5(2 to 5)same as(2:5)
-
-print("Slicing with str ",string1[0::2])#skip one char
-print("Slicing with str ",string1[0::3])#skip two char
+string1="Welcome to Python World !!!"
+print("String length : ",len(string1))
+print("String end with : ",string1.endswith("!!!"))
+print("Check count of o :",string1.count("o"))
+print("Capitalize string : ",string1.capitalize())
+print("find string : ",string1.find("World")) #return first occurence of World
+print("find string : ",string1.replace("World","Learning"))
 
 #---------------------------------------------------------------------------------------------
 #       Output
