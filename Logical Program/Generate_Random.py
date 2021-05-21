@@ -7,8 +7,8 @@
 
 import random
 while True:
-    num=random.randint(0,51)
-    if num==50:
+    num=random.randint(0,101)
+    if num==100:
         break
     else :
         print(num)
