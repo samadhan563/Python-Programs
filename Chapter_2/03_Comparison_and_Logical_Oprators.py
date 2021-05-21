@@ -1,64 +1,48 @@
-#-------------------------------------------------------------------------------------------------------
+# -------------------------------------------------------------------------------------------------------
 #      Heading
-#Python program for Oprators
+# Python program for Comparison and Logical Oprators
 '''
     Auther:Samadhan Nana Gaikwad.
     Location:Pune.
     Company Name: Nuvolo solution pvt. ltd., Pune.
 '''
-#-------------------------------------------------------------------------------------------------------
-#       Program 
+# -------------------------------------------------------------------------------------------------------
+#       Program
+# Comparison operators
+a = (10 > 20)
+print(a)
+a = (10 < 20)
+print(a)
+a = (10 != 20)
+print(a)
+a = (10 == 20)
+print(a)
+a = (10 >= 20)
+print(a)
 
-integerNum1=21
-integerNum2=10
-integerResult=None
+# Logical operators
+bool1 = True
+bool2 = False
+print("Bool1 and Bool2 = ",bool1 and bool2)
+print("Bool1 and Bool2 = ",bool1 or bool2)
 
-integerResult=integerNum1+integerNum2
-print("Addition Of Two Number --->", integerResult) 
-print("type of integerResult--->",type(integerResult),"\n")
+print("Bool1 and Bool2 = ",not bool2)
 
-integerResult=integerNum1-integerNum2
-print("Substraction Of Two Number --->", integerResult)
-print("type of integerResult--->",type(integerResult),"\n")
-
-integerResult=integerNum1*integerNum2
-print("Multiplication Of Two Number --->", integerResult) 
-print("type of integerResult--->",type(integerResult),"\n")
-
-integerResult=integerNum1/integerNum2
-print("Division Of Two Number --->", integerResult) 
-print("type of integerResult--->",type(integerResult),"\n")
-
-integerResult=integerNum1%integerNum2
-print("Moduls Of Two Number --->", integerResult) 
-print("type of integerResult--->",type(integerResult),"\n")
-
-
-
-
-#-------------------------------------------------------------------------------------------------------
+# -------------------------------------------------------------------------------------------------------
 #       Output
 '''
-    D:\E-DAC Data\Python\Chapter_2>python 02_Oprators.py
-    
-    Addition Of Two Number ---> 31
-    type of integerResult---> <class 'int'>
-
-    Substraction Of Two Number ---> 11
-    type of integerResult---> <class 'int'>
-
-    Multiplication Of Two Number ---> 210
-    type of integerResult---> <class 'int'>
-
-    Division Of Two Number ---> 2.1
-    type of integerResult---> <class 'float'>
-
-    Moduls Of Two Number ---> 1
-    type of integerResult---> <class 'int'>
-
+   D:\E-DAC Data\Python\Chapter_2>python 03_Comparison_and_Logical_Oprators.py
+    False
+    True
+    True
+    False
+    False
+    Bool1 and Bool2 =  False
+    Bool1 and Bool2 =  True
+    Bool1 and Bool2 =  True
 '''
 
-#-------------------------------------------------------------------------------------------------------
+# -------------------------------------------------------------------------------------------------------
 #       Notes
 '''
 ---> Variables-  Container to store a value.
@@ -110,5 +94,5 @@ print("type of integerResult--->",type(integerResult),"\n")
             
 
 '''
-#End
-#-------------------------------------------------------------------------------------------------------
+# End
+# -------------------------------------------------------------------------------------------------------
