@@ -33,6 +33,7 @@ integerResult=integerNum1%integerNum2
 print("Moduls Of Two Number --->", integerResult) 
 print("type of integerResult--->",type(integerResult),"\n")
 
+   
 
 
 #-------------------------------------------------------------------------------------------------------
