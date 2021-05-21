@@ -1,45 +1,60 @@
 #-------------------------------------------------------------------------------------------------------
 #      Heading
-#Python program for variable
+#Python program for Oprators
 '''
     Auther:Samadhan Nana Gaikwad.
     Location:Pune.
-    Company Name:Nuvolo solution pvt. ltd., Pune.
+    Company Name: Nuvolo solution pvt. ltd., Pune.
 '''
 #-------------------------------------------------------------------------------------------------------
 #       Program 
 
-str="Hello, i am python" # or str='Hello, i am python' or str='''Hello, i am python'''
-integerNum=10
-floatNum=20.20
-booleanVar= False
-noneVar=None
+integerNum1=21
+integerNum2=10
+integerResult=None
 
-print("String       --->",str) 
-print("Integer      --->",integerNum) 
-print("Float        --->",floatNum) 
-print("Boolean      --->",booleanVar) 
-print("None         --->",noneVar)
+integerResult=integerNum1+integerNum2
+print("Addition Of Two Number --->", integerResult) 
+print("type of integerResult--->",type(integerResult),"\n")
 
-print("type of str          --->",type(str))
-print("type of floatNum     --->",type(floatNum))
-print("type of integerNum   --->",type(integerNum))
-print("type of booleanVar   --->",type(booleanVar))
-print("type of noneVar      --->",type(noneVar))
+integerResult=integerNum1-integerNum2
+print("Substraction Of Two Number --->", integerResult)
+print("type of integerResult--->",type(integerResult),"\n")
+
+integerResult=integerNum1*integerNum2
+print("Multiplication Of Two Number --->", integerResult) 
+print("type of integerResult--->",type(integerResult),"\n")
+
+integerResult=integerNum1/integerNum2
+print("Division Of Two Number --->", integerResult) 
+print("type of integerResult--->",type(integerResult),"\n")
+
+integerResult=integerNum1%integerNum2
+print("Moduls Of Two Number --->", integerResult) 
+print("type of integerResult--->",type(integerResult),"\n")
+
+
+
 #-------------------------------------------------------------------------------------------------------
 #       Output
 '''
-    D:\E-DAC Data\Python\Chapter_2>python 01_Variable.py
-    String       ---> Hello, i am python
-    Integer      ---> 10
-    Float        ---> 20.2
-    Boolean      ---> True
-    None         ---> None
-    type of str          ---> <class 'str'>
-    type of floatNum     ---> <class 'float'>
-    type of integerNum   ---> <class 'int'>
-    type of booleanVar   ---> <class 'bool'>
-    type of noneVar      ---> <class 'NoneType'>
+    D:\E-DAC Data\Python\Chapter_2>python 02_Oprators.py
+    
+    Addition Of Two Number ---> 31
+    type of integerResult---> <class 'int'>
+
+    Substraction Of Two Number ---> 11
+    type of integerResult---> <class 'int'>
+
+    Multiplication Of Two Number ---> 210
+    type of integerResult---> <class 'int'>
+
+    Division Of Two Number ---> 2.1
+    type of integerResult---> <class 'float'>
+
+    Moduls Of Two Number ---> 1
+    type of integerResult---> <class 'int'>
+
 '''
 
 #-------------------------------------------------------------------------------------------------------
