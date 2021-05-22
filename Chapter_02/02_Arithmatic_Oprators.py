@@ -2,9 +2,9 @@
 #      Heading
 #Python program for Oprators
 '''
-    Auther:Samadhan Nana Gaikwad.
-    Location:Pune.
-    Company Name: Nuvolo solution pvt. ltd., Pune.
+    Author : Samadhan Gaikwad.
+    Software Developer
+    Location: Pune.
 '''
 #-------------------------------------------------------------------------------------------------------
 #       Program 

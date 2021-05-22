@@ -1,7 +1,8 @@
 #Program for play sound module
 '''
-    Auther:--- Samadhan Nana Gaikwad
-    Company Name:--- Nuvolo solution pvt. ltd., Pune.
+    Author : Samadhan Gaikwad.
+    Software Developer
+    Location: Pune.
 '''
 
 from playsound import playsound

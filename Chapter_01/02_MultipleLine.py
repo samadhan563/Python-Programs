@@ -1,7 +1,8 @@
 #Program of print string with more than one line..
 '''
-    Auther:--- Samadhan Nana Gaikwad
-    Company Name:--- Nuvolo solution pvt. ltd., Pune.
+    Author : Samadhan Gaikwad.
+    Software Developer
+    Location: Pune.
 '''
 print('''Twinkle, twinkle, little star
 How I wonder what you are

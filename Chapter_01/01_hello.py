@@ -1,7 +1,8 @@
 #First Program of hello Python
 '''
-    Auther:--- Samadhan Nana Gaikwad
-    Company Name:--- Nuvolo solution pvt. ltd., Pune.
+    Author : Samadhan Gaikwad.
+    Software Developer
+    Location: Pune.
 '''
 import os # importing os module
 print("!!! Hello Python !!!!") 

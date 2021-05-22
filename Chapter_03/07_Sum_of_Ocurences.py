@@ -1,7 +1,7 @@
 # Program for sum of prime occurences
 '''
-    Auther : Samadhan Gaikwad.
-    Software Devloper
+    Author : Samadhan Gaikwad.
+    Software Developer
     Location: Pune.
 '''
 

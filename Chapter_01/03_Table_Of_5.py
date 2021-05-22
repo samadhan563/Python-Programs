@@ -1,7 +1,8 @@
 #Program of print  the table of 5 ..
 '''
-    Auther:--- Samadhan Nana Gaikwad
-    Company Name:--- Nuvolo solution pvt. ltd., Pune.
+    Author : Samadhan Gaikwad.
+    Software Developer
+    Location: Pune.
 '''
 t=5
 n=10

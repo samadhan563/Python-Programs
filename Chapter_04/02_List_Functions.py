@@ -1,7 +1,7 @@
 # Program for List in python
 '''
-    Auther : Samadhan Gaikwad.
-    Software Devloper
+    Author : Samadhan Gaikwad.
+    Software Developer
     Location: Pune.
 '''
 #create list 

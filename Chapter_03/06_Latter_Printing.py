@@ -1,7 +1,7 @@
 # Program for letter writing
 '''
-    Auther : Samadhan Gaikwad.
-    Software Devloper
+    Author : Samadhan Gaikwad.
+    Software Developer
     Location: Pune.
 '''
 

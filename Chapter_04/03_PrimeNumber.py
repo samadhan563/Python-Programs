@@ -1,7 +1,7 @@
 # Program for Prime Number in python
 '''
-    Auther : Samadhan Gaikwad.
-    Software Devloper
+    Author : Samadhan Gaikwad.
+    Software Developer
     Location: Pune.
 '''
 #create list 

@@ -1,7 +1,7 @@
 # Program for circuler pattern
 '''
-    Auther : Samadhan Gaikwad.
-    Software Devloper
+    Author : Samadhan Gaikwad.
+    Software Developer
     Location: Pune.
 '''
 
