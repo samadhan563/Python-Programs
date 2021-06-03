@@ -1,4 +1,4 @@
-# Program for Set methods in python
+# Program for if else in python
 '''
     Author : Samadhan Gaikwad.
     Software Developer
